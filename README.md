@@ -1,3 +1,5 @@
 ##  Student Information
-- **Name**: tesfa m/k
+- **Name**: Tesfamikael hailu
+- **Student ID**: 4342/23
+- **Course**: Data Structures and Algorithms
 - 
